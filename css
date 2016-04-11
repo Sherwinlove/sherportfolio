@@ -151,16 +151,6 @@ body {
 	color: white;
 }
 
-.seller {
-	text-align: center;
-	margin-top: 400px;
-	margin-bottom: 400px;
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 2px;
-	color: white;
-}
-
-
 .repertoire a {
 	margin: 0 20px;
 }
@@ -201,6 +191,19 @@ body {
 .design-preview {
 	background-color: gray;
 	height: 400px;
+}
+
+.seller {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 2px;
+	color: white;
+	text-align: center;
+}
+
+.seller h1 {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
 }
 
 
