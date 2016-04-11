@@ -62,7 +62,6 @@ body {
 .repertoire {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	margin-right: 30px;
 }
 
 .about h4 {
@@ -162,8 +161,11 @@ body {
 }
 
 
-
-
 .repertoire a {
 	margin: 0 20px;
+}
+
+.footer {
+	text-align: center;
+	margin-right: 30px;
 }
